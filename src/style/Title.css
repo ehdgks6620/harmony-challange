@@ -1,0 +1,47 @@
+.slideForm {
+  position: relative;
+  display: block;
+  width: 100%;
+  background-color: rgba(250, 250, 250, 0.8);
+  box-shadow: 0 0.5px 2px 0.5px rgba(20, 20, 20, 0.8);
+}
+
+.slider {
+  width: 100%;
+  background-color: rgba(250, 250, 250, 0.8);
+  text-align: center;
+
+  border-left: 30px solid rgba(20, 20, 20, 0.8);
+  border-right: 30px solid rgba(20, 20, 20, 0.8);
+  height: 200px;
+}
+
+.a {
+  background-color: paleturquoise;
+  height: 200px;
+}
+
+.b {
+  background-color: palegreen;
+  height: 200px;
+}
+
+.c {
+  background-color: plum;
+  height: 200px;
+}
+
+.d {
+  background-color: purple;
+  height: 200px;
+}
+
+.e {
+  background-color: peru;
+  height: 200px;
+}
+
+h3 {
+  margin-top: 50px;
+  font-size: 65px;
+}
